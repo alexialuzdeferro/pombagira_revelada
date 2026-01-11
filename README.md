@@ -1,11 +1,4 @@
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/alexialuzdeferro/pombagira-revelada/refs/heads/main/maria_padilha_the_vengeful_pombagira_stands_in.jpeg" width="180" style="border-radius: 12px; border: 3px solid #ff007f; box-shadow: 0 0 30px rgba(255, 0, 127, 0.4), 0 0 60px rgba(0, 229, 255, 0.2); transition: all 0.3s ease;" 
-onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 40px rgba(255, 0, 127, 0.6), 0 0 80px rgba(0, 229, 255, 0.3), 0 0 120px rgba(98, 0, 234, 0.2)'" 
-onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px rgba(255, 0, 127, 0.4), 0 0 60px rgba(0, 229, 255, 0.2)'"
-onclick="this.style.transform='scale(0.95)'; setTimeout(()=>{this.style.transform='scale(1.05)'}, 150); this.style.boxShadow='0 0 50px rgba(255, 0, 127, 0.8), 0 0 100px rgba(0, 229, 255, 0.5)'">
-
-<br><br>
 
 # 🔮 POMBAGIRA REVELADA
 
