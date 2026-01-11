@@ -123,7 +123,3 @@ Espiritualidade: Umbanda • Candomblé • Tradições Afro-Brasileiras
 Gerado em: 2026 • Estilo: Visceral-Futurista
 Licença: Creative Commons — Atribuição-CompartilhaIgual
 
-</div>
-<div align="center" style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, rgba(255,0,127,0.08), rgba(98,0,234,0.05), rgba(0,229,255,0.03)); border-radius: 12px; border: 1px solid rgba(255, 0, 127, 0.15);">
-⚡ STATUS DO PORTAL
-<p style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <span style="background: rgba(255,0,127,0.15); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(255,0,127,0.3);">🟢 PORTAL ATIVO</span> <span style="background: rgba(98,0,234,0.15); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(98,0,234,0.3);">👑 12 RAINHAS</span> <span style="background: rgba(0,229,255,0.15); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(0,229,255,0.3);">🎨 DESIGN VISERAL</span> <span style="background: rgba(255,0,127,0.15); padding: 8px 16px; border-radius: 20px; border: 1px solid rgba(255,0,127,0.3);">⚡ PERFORMANCE MÁXIMA</span> </p><p style="font-size: 0.9em; color: rgba(255, 255, 255, 0.7); margin-top: 15px;"> Este portal está em constante evolução. Novas features e melhorias são implementadas regularmente. </p></div> ```
