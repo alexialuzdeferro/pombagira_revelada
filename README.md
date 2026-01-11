@@ -90,36 +90,3 @@ O portal apresenta as 12 Pombagiras com informações completas:
 4. **Use os controles** no canto superior para ajustar a experiência
 5. **Explore os portais** na seção inferior para mais recursos
 
-### Para Desenvolvedores:
-```bash
-# Clone o repositório
-git clone https://github.com/alexialuzdeferro/pombagira-revelada.git
-
-# Abra o arquivo principal
-open index.html
-# Ou arraste o index.html para seu navegador
-
-🌟 CRÉDITOS & AGRADECIMENTOS
-<div align="center">
-Criado por Alexia Melusine — Rosa de Fogo • Luz de Ferro
-
-"Este portal nasceu do respeito às tradições afro-brasileiras e do desejo de traduzir sua beleza para a linguagem digital."
-
-Agradecimentos especiais:
-
-Às comunidades de terreiros que preservam estas tradições
-
-Aos desenvolvedores que compartilham conhecimento open-source
-
-À energia das Pombagiras, que inspiram criação e transformação
-
-
-Tecnologia: HTML5 • CSS3 • JavaScript Vanilla • Tailwind CSS
-Design: Cyber-Gótico • Glassmorphism • Neon Aesthetic
-Espiritualidade: Umbanda • Candomblé • Tradições Afro-Brasileiras
-Ética: Respeito • Inclusão • Acessibilidade • Arte
-
-
-Gerado em: 2026 • Estilo: Visceral-Futurista
-Licença: Creative Commons — Atribuição-CompartilhaIgual
-
